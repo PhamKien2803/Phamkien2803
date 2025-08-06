@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Learning Python, Big Data & Cloud  <br>🔭 Working on fullstack web projects  <br>🤝 Open to collaboration & backend help  <br>⚡ Fun fact: Gym rat & animal lover 🐾🏋️<br>
+🌱 Learning Big Data & Cloud  <br>🔭 Working on fullstack web projects  <br>🤝 Open to collaboration & backend help  <br>⚡ Fun fact: Gym rat & animal lover 🐾🏋️<br>
 
 
 ## 🌐 Socials:
